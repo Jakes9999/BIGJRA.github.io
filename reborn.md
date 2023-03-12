@@ -1,7 +1,7 @@
 ---
 title: |
   Pokemon Reborn Walkthrough
----
+----
 
 <p id="title-text">Pokemon Reborn Walkthrough </p>
 
